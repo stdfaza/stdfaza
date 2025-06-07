@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/stdfaza.png" alt="profile picture" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">About <a href="https://github.com/stdfaza" target="_blank">stdfaza 👋</a></h1>
 
 <p align="center">
