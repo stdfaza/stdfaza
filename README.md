@@ -1,11 +1,11 @@
 <p align="center">
   <img 
-    src="https://github.com/stdfaza.png" 
+    src="https://github.com/stdfaza/README.md/raw/main/images/мияби мили-modified.png" 
     alt="profile picture" 
     width="150" height="150" 
-    style="border-radius: 50%; border: 4px solid #4CAF50;" 
   />
 </p>
+
 
 
 <h1 align="center">About <a href="https://github.com/stdfaza" target="_blank">stdfaza 👋</a></h1>
