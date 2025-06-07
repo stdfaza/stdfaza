@@ -28,28 +28,12 @@
 
 ---
 
-### 🐍 Snake GitHub Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=stdfaza&theme=react-dark)
 
-![snake gif](https://github.com/stdfaza/stdfaza/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](#)
-- [Post 2](#)
-- [Post 3](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 🎯 Fun Facts
 
-- 🔥 I love building open-source tools
-- 🧠 I enjoy solving algorithm problems
-- 📚 I read tech blogs and books almost every day
-- 🎮 Gaming is my second passion
+- 🎮 Gaming is my main passion
 
 ---
 
