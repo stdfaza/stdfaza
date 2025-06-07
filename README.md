@@ -1,10 +1,11 @@
 <p align="center">
   <img 
-    src="https://github.com/stdfaza/stdfaza/raw/main/images/img.png" 
+    src="https://github.com/stdfaza/stdfaza/raw/main/img.png" 
     alt="profile picture" 
     width="150" height="150" 
   />
 </p>
+
 
 
 
