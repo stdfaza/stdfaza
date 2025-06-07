@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/stdfaza/stdfaza/raw/main/images/ мияби мили-modified.png" 
+    src="https://github.com/stdfaza/stdfaza/raw/main/images/ profil-pict.png" 
     alt="profile picture" 
     width="150" height="150" 
   />
