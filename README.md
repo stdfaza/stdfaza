@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/stdfaza" target="_blank">stdfaza 👋</a></h1>
+<h1 align="center">About <a href="https://github.com/stdfaza" target="_blank">stdfaza 👋</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer;Love+to+code+and+collaborate" />
